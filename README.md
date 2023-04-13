@@ -35,3 +35,6 @@ limitations under the License.
 [ab4_tabata.jpg](https://www.pexels.com/photo/fashion-man-people-art-4662438/) - Elly Fairytale
 [ab5_hiit.jpg](https://www.pexels.com/photo/man-wearing-white-pants-under-blue-sky-999309/) - The Lazy Artist Gallery
 [ab6_pre_natal_yoga.jpg](https://www.pexels.com/photo/woman-doing-yoga-396133/) - freestocks.org
+
+## Screenshots from the app
+<img width="30%" alt="Screenshot_12" src="https://user-images.githubusercontent.com/92806557/231878805-6dc6f8e1-f1c8-4458-9362-8d08be7aa6ab.png">
